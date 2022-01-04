@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-04T06:58:57.619Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="yTlPpCE6A_tBbelCPz-V" version="16.1.4" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-01-04T06:59:06.526Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="INNXiRZnfwPglckTz1TW" version="16.1.4" type="github" pages="4">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="1278" dy="575" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -917,15 +917,6 @@
         </mxCell>
         <mxCell id="Rp9mX2etmYnX-WPqZus8-23" value="tNo {FK}" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;fontColor=#1D3557;" parent="zoeviYrqsyGMwub85MpZ-20" vertex="1">
           <mxGeometry y="146" width="160" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="Jz1pE5Uwf1D_DWgMYFjA-0" value="санал хүсэлт" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" parent="b5POwbc-ocr0MJqLJKVX-1" vertex="1">
-          <mxGeometry x="720" y="790" width="160" height="86" as="geometry" />
-        </mxCell>
-        <mxCell id="Jz1pE5Uwf1D_DWgMYFjA-1" value="cNo {FK}" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;fontColor=#1D3557;" parent="Jz1pE5Uwf1D_DWgMYFjA-0" vertex="1">
-          <mxGeometry y="26" width="160" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="Jz1pE5Uwf1D_DWgMYFjA-2" value="feedback" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;fontColor=#1D3557;" parent="Jz1pE5Uwf1D_DWgMYFjA-0" vertex="1">
-          <mxGeometry y="56" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="6-HdM3rWQmspiM5HpsRh-0" value="&lt;span style=&quot;font-size: 27px&quot;&gt;&lt;b&gt;Нарт хүргэлтийн хими цэвэрлэгээ&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#1D3557;" parent="b5POwbc-ocr0MJqLJKVX-1" vertex="1">
           <mxGeometry x="325" y="60" width="470" height="20" as="geometry" />
